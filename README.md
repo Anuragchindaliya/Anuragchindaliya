@@ -9,7 +9,14 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuragchindaliya&show_icons=true&theme=dark)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anurag/github-readme-stats)
+
+<a href="https://github.com/anuragchindaliya/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuragchindaliya&repo=weather" />
+</a>
+<a href="https://github.com/anuragchindaliya/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuragchindaliya&repo=avatar" />
+</a>
+<!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anurag/github-readme-stats)-->
 
  ## Thank you and Namaste! 🙏
 Thanks for reading about me. You can connect with me on ..
