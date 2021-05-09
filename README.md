@@ -7,7 +7,7 @@
 - ## Thank you and Namaste! 🙏
 Thanks for reading about me. You can connect with me on ..
 - 📫 How to reach me [Mail me](mailto:anuragwebpoint@gmail.com), [Mail me](mailto:ak1148383@gmail.com)
--
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuragchindaliya&show_icons=true&theme=radical)
 
 <!---
 Anuragchindaliya/Anuragchindaliya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
