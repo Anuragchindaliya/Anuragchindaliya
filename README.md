@@ -8,6 +8,9 @@
 Thanks for reading about me. You can connect with me on ..
 - 📫 How to reach me [Mail me](mailto:anuragwebpoint@gmail.com), [Mail me](mailto:ak1148383@gmail.com)
  
+ ![Quote](https://github-readme-quotes.herokuapp.com/quote?animation=grow_out_in)
+
+ 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuragchindaliya&show_icons=true&theme=radical)
 
 <!---
