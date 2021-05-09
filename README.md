@@ -1,4 +1,4 @@
- <h1 align="center">👋 Hi, I’m @Anuragchindaliya</h1>
+ <h1 align="center">👋 Hi, I’m @Anuragchindaliya</h1> <h4 align="center">A passionate frontend developer from India</h4>
 - 👀 I’m interested in Application developement
 
 
@@ -29,12 +29,18 @@
 
  ## Thank you and Namaste! 🙏
 Thanks for reading about me. You can connect with me on ..
-- 📫 How to reach me [Mail me](mailto:anuragwebpoint@gmail.com), [Mail me](mailto:ak1148383@gmail.com)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+ <a href="mailto:ak1148383@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/Anuragchindaliya/Anuragchindaliya/0b18b65f701c27a72baeed032a8dbafffa0515c8/assets/gmail.svg" alt="ak1148383@gmail.com" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anurag-chindaliya" target="blank"><img align="center" src="https://raw.githubusercontent.com/Anuragchindaliya/Anuragchindaliya/ea8a50d360950cb3854d42224e367b308448c2f6/assets/linkedin.svg" alt="anurag-chindaliya" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/12844953/anurag" target="blank"><img align="center" src="https://raw.githubusercontent.com/Anuragchindaliya/Anuragchindaliya/ea8a50d360950cb3854d42224e367b308448c2f6/assets/stack-overflow.svg" alt="12844953/anurag" height="30" width="40" /></a>
+</p>
+
  
  <!--![Quote](https://github-readme-quotes.herokuapp.com/quote?animation=grow_out_in)-->
 
 
-<h3 align="center">A passionate frontend developer from India</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragchindaliya&label=Profile%20views&color=0e75b6&style=flat" alt="anuragchindaliya" /> </p>
 
@@ -42,11 +48,7 @@ Thanks for reading about me. You can connect with me on ..
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/anurag-chindaliya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="anurag-chindaliya" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/12844953/anurag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="12844953/anurag" height="30" width="40" /></a>
-</p>
+
 
 
 
