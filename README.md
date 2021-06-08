@@ -7,9 +7,9 @@
  
  Demo :  <a href="https://github.com/anuragchindaliya/weather" target="_blank">Weather</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/anuragchindaliya/todo" target="_blank">TODO</a>
  
-<a href="https://github.com/anuragchindaliya/weather">
+<a href="https://anuragchindaliya.github.io/weather/">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuragchindaliya&repo=weather" />
-</a> <a href="https://github.com/Anuragchindaliya/todo">
+</a> <a href="https://anuragchindaliya.github.io/todo/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuragchindaliya&repo=todo" />
 </a>
 
