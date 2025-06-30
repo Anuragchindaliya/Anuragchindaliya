@@ -2,10 +2,10 @@
 - 👀 I’m interested in Application developement
 
 
-- 📄 checkout [resume](https://anurag-cv.web.app/)
+- 📄 checkout [portfolio](https://chindaliya.vercel.app/)
 - 📅 small project 
  
- Demo :  <a href="https://github.com/anuragchindaliya/q2w" target="_blank">Query2Write</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/anuragchindaliya/todo" target="_blank">TODO</a>
+ Demo :  <a href="https://github.com/anuragchindaliya/q2w" target="_blank">Query2Write</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="[https://github.com/anuragchindaliya/todo](https://sharetext.netlify.app/qrcode)" target="_blank">ShareText</a>
 
  <a href="https://anuragchindaliya.github.io/q2w/">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuragchindaliya&repo=q2w" />
