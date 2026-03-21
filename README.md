@@ -1,68 +1,174 @@
- <h1 align="center">👋 Hi, I’m @Anuragchindaliya</h1> <h4 align="center">A passionate frontend developer from India</h4>
-- 👀 I’m interested in Application developement
+<h2 align="center">Anurag | Frontend | FullStack Developer</h2>
+<p align="center">
+🚀 5+ Years Experience • ⚛️ React Specialist • ⚡ Scalable UI Architectures
+</p>
+
+## 👨‍💻 About Me
+
+Senior Frontend Developer with over 5 years of experience specializing in the React and TypeScript ecosystem. Currently at Amantya Technologies, I lead frontend modules for large-scale enterprise platforms, including complex workflow systems and map-integrated dashboards. My background includes migrating legacy systems at NielsenIQ and developing robust, configuration-driven UI architectures. I am dedicated to engineering excellence, clean code, and performance optimization.
+
+- 🔐 **Authentication:** Expert in implementing secure JWT, OTP, and SSO authentication flows.
+- 🏗️ **Systems:** Deeply experienced in building dynamic, JSON-driven form builders and enterprise-grade platforms.
+- 🧪 **Testing:** Focused on rigorous testing and validation using Jest, React Testing Library, and MSW.
 
 
-- 📄 checkout [portfolio](https://chindaliya.vercel.app/)
-- 📅 small project 
- 
- Demo :  <a href="https://github.com/anuragchindaliya/q2w" target="_blank">Query2Write</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="[https://github.com/anuragchindaliya/todo](https://sharetext.netlify.app/qrcode)" target="_blank">ShareText</a>
+## 🛠️ Tech Stack
 
- <a href="https://anuragchindaliya.github.io/q2w/">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuragchindaliya&repo=q2w" />
-</a> </a> <a href="https://anuragchindaliya.github.io/todo/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuragchindaliya&repo=todo" />
+<details open>
+<summary>
+<b>🚀 Frontend</b>
+</summary>
+
+- React, Next.js, React Native
+- TypeScript, JavaScript (ES6+)
+- Tailwind CSS, SCSS, Bootstrap
+</details>
+
+<details>
+<summary><b>🎨 UI Libraries</b></summary>
+
+- MUI, ShadCN UI, Ant Design
+- Radix UI, KendoReact, Storybook
+</details>
+
+<details>
+<summary><b>⚙️ State Management</b></summary>
+
+- Redux Toolkit, RTK Query
+- Zustand, Context API
+- TanStack Query
+</details>
+
+<details>
+<summary><b>🧩 Forms & Validation</b></summary>
+
+- React Hook Form, Zod, Formik
+- Form.io (Dynamic JSON forms)
+</details>
+
+<details>
+<summary><b>🌐 Backend & APIs</b></summary>
+
+- Node.js, Express.js
+- REST APIs, GraphQL, WebSocket
+</details>
+
+<details>
+<summary><b>🧪 Testing</b></summary>
+
+- Jest, React Testing Library, MSW
+</details>
+
+<details>
+<summary><b>⚡ DevOps & Tools</b></summary>
+
+- Docker, Nginx, Jenkins
+- Git, GitLab, Bitbucket
+- Jira, Postman, VS Code
+</details>
+
+<!-- ## 💼 Work Experience
+
+<details>
+<summary><b>🏢 Software Engineer — Amantya Technologies (2022 – Present)</b></summary>
+
+- Built workflow systems for **26+ states**
+- Developed **data-heavy dashboards & filtering systems**
+- Integrated **maps, charts & scheduling systems**
+- Mentored junior developers & led frontend modules
+</details>
+
+<details>
+<summary><b>📊 NielsenIQ</b></summary>
+
+- Migrated legacy app **EXTJS → React**
+- Implemented **multi-language support (i18n)**
+- Built **advanced forms & scheduling systems**
+- Developed **map-based route visualization**
+</details>
+
+<details>
+<summary><b>💳 Credit Card & Loan Platform</b></summary>
+
+- Built **user + admin dashboards**
+- Implemented **analytics & reporting systems**
+- Used **Redux Toolkit & RTK Query for scalable architecture**
+</details>
+
+--- -->
+
+## 🚀 Featured Projects
+
+<details>
+<summary><b>🔹 Project Management Platform</b></summary>
+
+- Enterprise-grade project management application featuring real-time collaboration, role-based access control.
+- 🔗 GitHub: https://github.com/Anuragchindaliya/project-management
+</details>
+
+<details>
+<summary><b>🔹 ShareText</b></summary>
+
+- Multifunctional tool featuring QR code generation, anonymous text saving, draw and sketch, Event Calendar, GIS Map locations, and an AI Playground.
+- 🔗 URL: https://sharetext.netlify.app/qrcode
+</details>
+
+<details>
+<summary><b>🔹 Query2Write (Q2W)</b></summary>
+
+- Store & access text snippets using a room key
+- 🔗 GitHub: https://github.com/anuragchindaliya/q2w
+</details>
+
+<p>
+  <a href="https://github.com/Anuragchindaliya/project-management">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anuragchindaliya&repo=project-management" />
+  </a>
+  <a href="https://github.com/anuragchindaliya/q2w">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuragchindaliya&repo=q2w" />
+  </a>
+</p>
+
+
+
+## 🔗 Quick Links
+
+- 🌐 Portfolio: https://chindaliya.vercel.app/
+- 💼 LinkedIn: https://linkedin.com/in/anurag-chindaliya
+- 📫 Email: anuragwebpoint@gmail.com
+
+
+
+<details>
+<summary><b style="font-size: 20px;">📈 GitHub Stats</b>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anuragchindaliya&show_icons=true&theme=tokyonight" height="160"/>
+</p>
+</summary>
+
+
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragchindaliya&theme=tokyonight" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragchindaliya&layout=compact&theme=tokyonight" height="160"/> -->
+</p>
+
+</details>
+
+
+
+## 🤝 Connect with Me
+<p>
+<a href="mailto:anuragwebpoint@gmail.com">
+  <img src="https://raw.githubusercontent.com/Anuragchindaliya/Anuragchindaliya/main/assets/gmail.svg" height="30"/>
 </a>
-
-<br/>
-<br/>
-  
-  <h3 align="left">Languages and Tools:</h3>
-<p align="left" style="display:flex;">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a><a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.svg" alt="react" width="40" height="40"/> </a>  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>   
-
+<a href="https://linkedin.com/in/anurag-chindaliya">
+  <img src="https://raw.githubusercontent.com/Anuragchindaliya/Anuragchindaliya/main/assets/linkedin.svg" height="30"/>
+</a>
 </p>
 
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragchindaliya&layout=compact)](https://github.com/anuragchindaliya/) 
+---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuragchindaliya&show_icons=true&theme=dark)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragchindaliya&" alt="anuragchindaliya" /></p>
-
-<!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anurag/github-readme-stats)-->
-
- ## Thank you and Namaste! 🙏
-Thanks for reading about me. You can connect with me on ..
-<h3 align="left">Connect with me:</h3>
-<p align="left">
- <a href="mailto:ak1148383@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/Anuragchindaliya/Anuragchindaliya/0b18b65f701c27a72baeed032a8dbafffa0515c8/assets/gmail.svg" alt="ak1148383@gmail.com" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anurag-chindaliya" target="blank"><img align="center" src="https://raw.githubusercontent.com/Anuragchindaliya/Anuragchindaliya/ea8a50d360950cb3854d42224e367b308448c2f6/assets/linkedin.svg" alt="anurag-chindaliya" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/12844953/anurag" target="blank"><img align="center" src="https://raw.githubusercontent.com/Anuragchindaliya/Anuragchindaliya/ea8a50d360950cb3854d42224e367b308448c2f6/assets/stack-overflow.svg" alt="12844953/anurag" height="30" width="40" /></a>
+<p align="center">
+💡 Building scalable UI systems & dynamic form architectures
 </p>
-
- 
- <!--![Quote](https://github-readme-quotes.herokuapp.com/quote?animation=grow_out_in)-->
-
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragchindaliya&label=Profile%20views&color=0e75b6&style=flat" alt="anuragchindaliya" /> </p>
-
-
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-
-
-
-
-
-
-
-
-
-
-<!---
-Anuragchindaliya/Anuragchindaliya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
