@@ -5,7 +5,7 @@
 
 ## 👨‍💻 About Me
 
-Senior Frontend Developer with over 5 years of experience specializing in the React and TypeScript ecosystem. Currently at Amantya Technologies, I lead frontend modules for large-scale enterprise platforms, including complex workflow systems and map-integrated dashboards. My background includes migrating legacy systems at NielsenIQ and developing robust, configuration-driven UI architectures. I am dedicated to engineering excellence, clean code, and performance optimization.
+Senior Frontend Developer with over ***5+*** years of experience specializing in the React and TypeScript ecosystem. Currently at Amantya Technologies, I lead frontend modules for large-scale enterprise platforms, including complex workflow systems and map-integrated dashboards. My background includes migrating legacy systems at ***NielsenIQ*** and contributing to major projects from scratch like ***Curebay***, ***Cytrellis Ellacor*** and ***DOT***(built many modules like Gatishakti, Competency Portal, etc). I am dedicated to engineering excellence, clean code, and performance optimization.
 
 - 🔐 **Authentication:** Expert in implementing secure JWT, OTP, and SSO authentication flows.
 - 🏗️ **Systems:** Deeply experienced in building dynamic, JSON-driven form builders and enterprise-grade platforms.
@@ -99,7 +99,7 @@ Senior Frontend Developer with over 5 years of experience specializing in the Re
 
 ## 🚀 Featured Projects
 
-<details>
+<details open>
 <summary><b>🔹 Project Management Platform</b></summary>
 
 - Enterprise-grade project management application featuring real-time collaboration, role-based access control.
