@@ -27,7 +27,7 @@ Senior Frontend Developer with over ***5+*** years of experience specializing in
 <details>
 <summary><b>🎨 UI Libraries</b></summary>
 
-- MUI, ShadCN UI, Ant Design
+- Ant Design, ShadCN UI, Aceternity, MUI
 - Radix UI, KendoReact, Storybook
 </details>
 
